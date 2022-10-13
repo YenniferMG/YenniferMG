@@ -25,14 +25,24 @@ Otros lenguajes:
 Marcos:
 •	React.js
 
-Base de Datos
-•	postgresql
+Base de Datos:
+
+
+•	postgresql ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Metodologías ágiles de software:
 
 Scrum.
 
 
+Desing:
+
+Figma ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
